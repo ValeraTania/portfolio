@@ -1,4 +1,4 @@
-# 🧑‍💻 Front-End Portfolio - [Tania Valera]
+# 💻Front-End Portfolio - Tania Valera
 
 Welcome to my personal portfolio as a **Junior Front-End Developer**! 🚀  
 This project is currently a work in progress. Here, I'll showcase the projects, skills, and technologies I'm learning and building as I grow in the world of web development.
